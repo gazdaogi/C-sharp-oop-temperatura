@@ -1,0 +1,8 @@
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\bin\Debug\ZadatakTemperatura.exe
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\bin\Debug\ZadatakTemperatura.pdb
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.Form1.resources
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.Properties.Resources.resources
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.csproj.GenerateResource.Cache
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.exe
+c:\users\jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.pdb
+C:\Users\Jasmina\documents\visual studio 2010\Projects\ZadatakTemperatura\ZadatakTemperatura\obj\x86\Debug\ZadatakTemperatura.csprojResolveAssemblyReference.cache
